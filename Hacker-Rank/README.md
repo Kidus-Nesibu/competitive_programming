@@ -5,32 +5,32 @@ This folder contains my solutions to **Hacker Rank Practice Problems**.
 
 ### Hacker Rank Practice Problems
 
-- [Problem 1 – Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)  
-  =========== [Solution](/Hacker-Rank/Solutions/Arithmetic%20Operators.py)
+- [Problem – Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)  
+  =========== [Solution](/Hacker-Rank/Solutions/Arithmetic%20Operators.py) :contentReference[oaicite:0]{index=0}
 
-- [Problem 2 – Division](#)  
-  =========== [Solution](/Hacker-Rank/Solutions/Division.py)
+- [Problem – Python: Division](https://www.hackerrank.com/challenges/python-division/problem)  
+  =========== [Solution](/Hacker-Rank/Solutions/Division.py) :contentReference[oaicite:1]{index=1}
 
-- [Problem 3 – sWAP cASE](#)  
-  =========== [Solution](/Hacker-Rank/Solutions/sWAp_cASE.py)
+- [Problem – sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)  
+  =========== [Solution](/Hacker-Rank/Solutions/sWAp_cASE.py) :contentReference[oaicite:2]{index=2}
 
-- [Problem 4 – Loops](#)  
-  =========== [Solution](/Hacker-Rank/Solutions/Loops.py)
+- [Problem – Loops](https://www.hackerrank.com/challenges/python-loops/problem)  
+  =========== [Solution](/Hacker-Rank/Solutions/Loops.py) :contentReference[oaicite:3]{index=3}
 
-- [Problem 5 – Python IF-Else](#)  
-  =========== [Solution](/Hacker-Rank/Solutions/Python_IF_Else.py)
+- [Problem – Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)  
+  =========== [Solution](/Hacker-Rank/Solutions/Python_IF_Else.py) :contentReference[oaicite:4]{index=4}
 
-- [Problem 6 – Power / Mod Power](#)  
-  =========== [Solution](/Hacker-Rank/Solutions/Power-Mod_Power.py)
+- [Problem – Power - Mod Power](https://www.hackerrank.com/challenges/power-mod-power/problem)  
+  =========== [Solution](/Hacker-Rank/Solutions/Power-Mod_Power.py) :contentReference[oaicite:5]{index=5}
 
-- [Problem 7 – String Split and Join](#)  
-  =========== [Solution](/Hacker-Rank/Solutions/String_Split_join.py)
+- [Problem – String Split and Join](https://www.hackerrank.com/challenges/string-_split-and-join/problem)  
+  =========== [Solution](/Hacker-Rank/Solutions/String_Split_join.py) :contentReference[oaicite:6]{index=6}
 
-- [Problem 8 – What's Your Name](#)  
-  =========== [Solution](/Hacker-Rank/Solutions/What's_your_name.py)
+- [Problem – What’s Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)  
+  =========== [Solution](/Hacker-Rank/Solutions/What's_your_name.py) :contentReference[oaicite:7]{index=7}
 
-- [Problem 9 – List Comprehensions](#)  
-  =========== [Solution](/Hacker-Rank/Solutions/List_Comprehension.py)
+- [Problem – List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)  
+  =========== [Solution](/Hacker-Rank/Solutions/List_Comprehension.py) :contentReference[oaicite:8]{index=8}
 
-- [Problem 10 – Dictionaries and Maps](#)  
-  =========== [Solution](/Hacker-Rank/Solutions/Dictionaries_and_maps.py)
+- [Problem – Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)  
+  =========== [Solution](/Hacker-Rank/Solutions/Dictionaries_and_maps.py) :contentReference[oaicite:9]{index=9}
