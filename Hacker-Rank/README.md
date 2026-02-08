@@ -1,8 +1,6 @@
 # Hacker Rank Practice Problems 🏁
 
 This folder contains my solutions to **Haker Rank Practice Problems**.  
-Each entry links directly to the original contest problem.
-
 ---
 
 ### Haker Rank Practice Problems
