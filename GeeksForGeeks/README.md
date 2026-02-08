@@ -1,19 +1,14 @@
 # Geeks For Geeks Practice Problems 🏁
 
 This folder contains my solutions to **Geeks For Geeks Practice Problems**.  
-Each entry links directly to the original contest problem.
+Each problem title links to the original GeeksForGeeks question, and the solution links to my implementation.
 
 ---
 
-### Geeks For Geeks Problems
-- [Problem A – Problem Name](https://codeforces.com/contest/0000/problem/A) =============== [Problem Solution](https://github.com/Kidus-Nesibu/competitive_programming/tree/main/GeeksForGeeks/solution/twosum.py)
-- [Problem B – Problem Name](https://codeforces.com/contest/0000/problem/A) =============== [Problem Solution](https://github.com/Kidus-Nesibu/competitive_programming/tree/main/GeeksForGeeks/solution/twosum.py)
-- [Problem C – Problem Name](https://codeforces.com/contest/0000/problem/A) =============== [Problem Solution](https://github.com/Kidus-Nesibu/competitive_programming/tree/main/GeeksForGeeks/solution/twosum.py)
-- [Problem D – Problem Name](https://codeforces.com/contest/0000/problem/A) =============== [Problem Solution](https://github.com/Kidus-Nesibu/competitive_programming/tree/main/GeeksForGeeks/solution/twosum.py)
-- [Problem E – Problem Name](https://codeforces.com/contest/0000/problem/A) =============== [Problem Solution](https://github.com/Kidus-Nesibu/competitive_programming/tree/main/GeeksForGeeks/solution/twosum.py)
+## 📌 Problem List
 
-
----
-
-##  Template
-Example:- [Problem B – Problem Name](https://codeforces.com/contest/0000/problem/B)
+| # | Problem Name | Problem Link | Solution |
+|---|-------------|--------------|----------|
+| 1 | Array Subset of Another Array | [Link](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1) | [Solution](/GeeksForGeeks/Solution/Array_subset.py) |
+| 2 | Check if Two Arrays Are Equal or Not | [Link](https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1) | [Solution](/GeeksForGeeks/Solution/Check_equal_array.py) |
+| 3 | Union of Two Arrays | [Link](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1) | [Solution](/GeeksForGeeks/Solution/Union_Array.py) |
