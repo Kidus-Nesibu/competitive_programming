@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://github.com/user-attachments/assets/686e340f-a69d-4b58-9a61-984000922da1"
+    src="https://github.com/user-attachments/assets/c4d2772d-dc60-4998-8d8d-36a14c729110"
     alt="A2SV"
     width="100%"
     height="200"
