@@ -1,7 +1,6 @@
 # Geeks For Geeks Practice Problems 🏁
 
 This folder contains my solutions to **Geeks For Geeks Practice Problems**.  
-Each problem title links to the original GeeksForGeeks question, and the solution links to my implementation.
 
 ---
 
