@@ -9,6 +9,6 @@ Each problem title links to the original GeeksForGeeks question, and the solutio
 
 | # | Problem Name | Problem Link | Solution |
 |---|-------------|--------------|----------|
-| 1 | Array Subset of Another Array | [Link](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1) | [Solution](/GeeksForGeeks/Solution/Array_subset.py) |
-| 2 | Check if Two Arrays Are Equal or Not | [Link](https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1) | [Solution](/GeeksForGeeks/Solution/Check_equal_array.py) |
-| 3 | Union of Two Arrays | [Link](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1) | [Solution](/GeeksForGeeks/Solution/Union_Array.py) |
+| 1 | Array Subset of Another Array | [Link](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1) | [Link](/GeeksForGeeks/Solution/Array_subset.py) |
+| 2 | Check if Two Arrays Are Equal or Not | [Link](https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1) | [Link](/GeeksForGeeks/Solution/Check_equal_array.py) |
+| 3 | Union of Two Arrays | [Link](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1) | [Link](/GeeksForGeeks/Solution/Union_Array.py) |
