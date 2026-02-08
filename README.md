@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/686e340f-a69d-4b58-9a61-984000922da1" alt="A2SV" width="180"/>
+  <img src="https://github.com/user-attachments/assets/686e340f-a69d-4b58-9a61-984000922da1" alt="A2SV" width="100%"/>
 </div>
 
 # Competitive Programming 🚀
