@@ -11,31 +11,31 @@ Each entry links directly to the original contest problem.
 
 | Problem | Link | Solution |
 |---------|------|----------|
-| A – A + B? | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/666791/problem/A) | [Link](https://github.com/BeimnetTefera/Competitive_Programming/blob/main/CodeForce/Contests/Solutions/A_A_B.py) |
-| B – Soldiers and Bananas | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/666791/problem/B) | [Link](https://github.com/BeimnetTefera/Competitive_Programming/blob/main/CodeForce/Contests/Solutions/A_Soldier_and_Bananas.py) |
-| C – Way Too Long Words | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/666791/problem/C) | [Link](https://github.com/BeimnetTefera/Competitive_Programming/blob/main/CodeForce/Contests/Solutions/C_Way_Too_Long_Words.py) |
-| D – Even Odds | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/666791/problem/D) | [Link](https://github.com/BeimnetTefera/Competitive_Programming/blob/main/CodeForce/Contests/Solutions/D_Even_Odds.py) |
-| E – Only Pluses | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/666791/problem/E) | [Link](https://github.com/BeimnetTefera/Competitive_Programming/blob/main/CodeForce/Contests/Solutions/E_Only_Pluses.py) |
+| A – A + B? | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/666791/problem/A) | [Link](https://github.com/Kidus-Nesibu/competitive_programming/blob/main/CodeForce/Contests/Solutions/A_A_B.py) |
+| B – Soldiers and Bananas | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/666791/problem/B) | [Link](https://github.com/Kidus-Nesibu/competitive_programming/blob/main/CodeForce/Contests/Solutions/A_Soldier_and_Bananas.py) |
+| C – Way Too Long Words | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/666791/problem/C) | [Link](https://github.com/Kidus-Nesibu/competitive_programming/blob/main/CodeForce/Contests/Solutions/C_Way_Too_Long_Words.py) |
+| D – Even Odds | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/666791/problem/D) | [Link](https://github.com/Kidus-Nesibu/competitive_programming/blob/main/CodeForce/Contests/Solutions/D_Even_Odds.py) |
+| E – Only Pluses | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/666791/problem/E) | [Link](https://github.com/Kidus-Nesibu/competitive_programming/blob/main/CodeForce/Contests/Solutions/E_Only_Pluses.py) |
 
 ### Codeforces Round #2
 
 | Problem | Link | Solution |
 |---------|------|----------|
-| A – Boy or Girl | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/668477/problem/A) | [Link](https://github.com/BeimnetTefera/Competitive_Programming/blob/main/CodeForce/Contests/Solutions/A_Boy_or_Girl.py) |
-| B – Pangram | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/668477/problem/B) | [Link](https://github.com/BeimnetTefera/Competitive_Programming/blob/main/CodeForce/Contests/Solutions/B_Pangram.py) |
-| C – Bark to Unlock | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/668477/problem/C) | [Link](https://github.com/BeimnetTefera/Competitive_Programming/blob/main/CodeForce/Contests/Solutions/C_Bark_to_Unlock.py) |
-| D – Sereja and Dima | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/668477/problem/D) | [Link](https://github.com/BeimnetTefera/Competitive_Programming/blob/main/CodeForce/Contests/Solutions/D_Serja_and_Dima.py) |
-| E – Monsters Attack | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/668477/problem/E) | [Link](https://github.com/BeimnetTefera/Competitive_Programming/blob/main/CodeForce/Contests/Solutions/E_Monsters_Attack.py) |
+| A – Boy or Girl | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/668477/problem/A) | [Link](https://github.com/Kidus-Nesibu/competitive_programming/blob/main/CodeForce/Contests/Solutions/A_Boy_or_Girl.py) |
+| B – Pangram | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/668477/problem/B) | [Link](https://github.com/Kidus-Nesibu/competitive_programming/blob/main/CodeForce/Contests/Solutions/B_Pangram.py) |
+| C – Bark to Unlock | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/668477/problem/C) | [Link](https://github.com/Kidus-Nesibu/competitive_programming/blob/main/CodeForce/Contests/Solutions/C_Bark_to_Unlock.py) |
+| D – Sereja and Dima | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/668477/problem/D) | [Link](https://github.com/Kidus-Nesibu/competitive_programming/blob/main/CodeForce/Contests/Solutions/D_Serja_and_Dima.py) |
+| E – Monsters Attack | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/668477/problem/E) | [Link](https://github.com/Kidus-Nesibu/competitive_programming/blob/main/CodeForce/Contests/Solutions/E_Monsters_Attack.py) |
 
 ### Codeforces Round #3
 
 | Problem | Link | Solution |
 |---------|------|----------|
-| A – Biscuits | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/669959/problem/A) | [Link](https://github.com/BeimnetTefera/Competitive_Programming/blob/main/CodeForce/Contests/Solutions/A_Biscuits.py) |
-| B – Balance the Colonies | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/669959/problem/B) | [Link](https://github.com/BeimnetTefera/Competitive_Programming/blob/main/CodeForce/Contests/Solutions/B_Balance_the_Colonies.py) |
-| C – Check Valid Number | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/669959/problem/C) | [Link](https://github.com/BeimnetTefera/Competitive_Programming/blob/main/CodeForce/Contests/Solutions/C_Check_Valid_Numbers.py) |
-| D – Genome Substring | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/669959/problem/D) | [Link](https://github.com/BeimnetTefera/Competitive_Programming/blob/main/CodeForce/Contests/Solutions/D_Genome_Substring.py) |
-| E – Annoying Child | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/669959/problem/E) | [Link](https://github.com/BeimnetTefera/Competitive_Programming/blob/main/CodeForce/Contests/Solutions/E_Annoying_Child.py) |
+| A – Biscuits | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/669959/problem/A) | [Link](https://github.com/Kidus-Nesibu/competitive_programming/blob/main/CodeForce/Contests/Solutions/A_Biscuits.py) |
+| B – Balance the Colonies | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/669959/problem/B) | [Link](https://github.com/Kidus-Nesibu/competitive_programming/blob/main/CodeForce/Contests/Solutions/B_Balance_the_Colonies.py) |
+| C – Check Valid Number | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/669959/problem/C) | [Link](https://github.com/Kidus-Nesibu/competitive_programming/blob/main/CodeForce/Contests/Solutions/C_Check_Valid_Numbers.py) |
+| D – Genome Substring | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/669959/problem/D) | [Link](https://github.com/Kidus-Nesibu/competitive_programming/blob/main/CodeForce/Contests/Solutions/D_Genome_Substring.py) |
+| E – Annoying Child | [Link](https://codeforces.com/group/kMGd7RzuLZ/contest/669959/problem/E) | [Link](https://github.com/Kidus-Nesibu/competitive_programming/blob/main/CodeForce/Contests/Solutions/E_Annoying_Child.py) |
 
 ### Codeforces Round #4
 
