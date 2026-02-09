@@ -7,7 +7,8 @@ Each problem title links to the original CodeForces question, and the solution l
 
 | # | Problem Name | Problem Link | Solution |
 |---|-------------|--------------|----------|
-| 1 | Watermelon | [Link](https://codeforces.com/problemset/problem/4/A) | [Link](https://github.com/Kidus-Nesibu/Competitive_Programming/blob/main/CodeForce/Practice-Questions/Solution/Watermelon.py) |
+| 1 | Watermelon | [Link](https://codeforces.com/problemset/problem/4/A) | [Link](competitive_programming/CodeForce/Practice-Questions/Solution/A_Watermelon.py) |
 | 2 | Sum | [Link](https://codeforces.com/problemset/problem/1742/A) | [Link](https://github.com/Kidus-Nesibu/Competitive_Programming/blob/main/CodeForce/Practice-Questions/Solution/Sum.py) |
 
 
+ 
