@@ -14,3 +14,4 @@ This folder contains my solutions to **Hacker Rank Practice Problems**.
 | 8 | What’s Your Name? | [Link](https://www.hackerrank.com/challenges/whats-your-name/problem) | [Link](/Hacker-Rank/Solutions/What's_your_name.py) |
 | 9 | List Comprehensions | [Link](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Link](/Hacker-Rank/Solutions/List_Comprehension.py) |
 |10 | Dictionaries and Maps | [Link](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Link](/Hacker-Rank/Solutions/Dictionaries_and_maps.py) |
+|11 | Left Rotation | [Link](https://www.hackerrank.com/challenges/array-left-rotation/problem) | [Link](/Hacker-Rank/Solutions/Left_Rotation.py) |
