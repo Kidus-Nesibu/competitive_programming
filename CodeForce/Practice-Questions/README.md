@@ -8,5 +8,6 @@ Each problem title links to the original CodeForces question, and the solution l
 | # | Problem Name | Problem Link | Solution |
 |---|-------------|--------------|----------|
 | 1 | Watermelon | [Link](https://codeforces.com/problemset/problem/4/A) | [Link](Solution/A_Watermelon.py) |
+| 2 | A.sum | [Link](https://codeforces.com/problemset/problem/1742/A) | [Link](Solution/A_sum.py) |
 
  
